@@ -10,6 +10,6 @@ ENTITIES: We have different entities like buyer(user), orders, games, payments. 
 
 ISSUES: The minor issues occurred in this website I.e; the customer cannot enter their personal details and they’re not enter their card details.Some changes need to be done and some technologies need to be added for making better website.At present the coding is done but not able to login and connected to data base and couldn’t add my games in to cart for the further payment.
 
-Modification required: Upto now, only few features are added like images only. In future I would like to add better visuals effects and more user friendly options like trail games for some time and then if they like it they would pay it.
+Modification required: Upto now, only few features are added like images only. In future I would like to add better visuals effects and more user friendly options like trail games for some time and then if they like it they would pay it. I would also like to add coupon in payment entity which attracts users to buy my games. Also, I would like to design this website compatible in all devices.
 
 
