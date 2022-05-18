@@ -2,9 +2,9 @@ WEB AND DATABASE PROGRAMMING-PROJECT
 
 INTRODUCTION: My project is about a e-commerce website that user can register ,login  and add the games in to cart and purchase the games with their respective prices I.e; each game is different genre like action games ,wrestling games  and athletics ..etc with different prices.The reason for the project is in my childhood I used to play virtual games and I interested in gaming sector.
 
-TECHNOLOGIES USED: To develop this website i  used the technologies like HTML for creating pages, SQL is used for creating and using database, CSS is for styling the webpages. JAVASCRIPT to create dynamic content. Node.js is for creating real time run environment.
+TECHNOLOGIES USED: To develop this project, I have used various technologies like HTML, CSS, MySQL, Javascript. Each technology has its own importance and major contribution to the project. Html is used in creating webpages, css is used in styling, while Java script and Node.js are used for interactive programming and real time run environment respectively.
 
-INSTALLATIONS: I installed the GIT HUB and I commit the changes in it. I installed NODEMON, MYSQL for this website. MYSQL we can create tables in the database. This database stores the details of the users like their first name, last-name, email and passwords.
+INSTALLATIONS: I installed the GIT HUB and I commit the changes in it. I installed NODEMON, MYSQL for this website. MYSQL we can create tables in the database. This database stores the details of the games and other entities like users, cart and payments. The database has all the data of the website.
 
 ENTITIES: We have different entities like buyer(user), orders, games, payments. Every entity is interlinked with each other yet has their unique ID like Buyer Id, Order ID etc., These has their own attributes which has information about each entity 
 
